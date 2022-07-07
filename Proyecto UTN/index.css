@@ -1,0 +1,24 @@
+header{
+    height: auto;
+    overflow-y: scroll;
+}
+
+.generalContainer {
+    height: 90vh;
+}
+
+.productsContainer {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.cartContainer {
+    height: 100%;
+    overflow-y: scroll;
+    background-color: #276e6e;
+
+}
+.productImg {
+
+    max-height: 450px;
+}
